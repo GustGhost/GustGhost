@@ -2,9 +2,9 @@
 ## Sou um desenvolvedor web frontend brasileiro com experiência em HTML | CSS | JavaScript | React.
 ## Meus pronomes são Ele/Dele
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustGhost&theme=radical)](https://github.com/GustGhost/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustGhost&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustGhost&layout=compact&theme=radical)](https://github.com/GustGhost/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustGhost&layout=compact&theme=radical)
 
 ### Atualmente estou à procura de uma vaga como desenvolvedor
 
