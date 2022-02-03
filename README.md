@@ -1,16 +1,13 @@
-### Hi there 👋
+# Oi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Sou um desenvolvedor web frontend brasileiro com experiência em HTML | CSS | JavaScript | React.
+## Meus pronomes são Ele/Dele
 
-<!--
-**GustGhost/GustGhost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustGhost&theme=radical)](https://github.com/GustGhost/github-readme-stats)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustGhost&layout=compact&theme=radical)](https://github.com/GustGhost/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Atualmente estou à procura de uma vaga como desenvolvedor
+
+## Estou também no [LinkedIn][2].
+
+[2]: https://www.linkedin.com/in/luis-gustavo-rodrigues-de-paula-727468162//
