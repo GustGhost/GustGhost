@@ -1,5 +1,5 @@
 # Oi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-## Sou um desenvolvedor web frontend brasileiro com experiência em HTML | CSS | JavaScript | React.
+## Sou um desenvolvedor web fullstack brasileiro com experiência em HTML | CSS | JavaScript | React | Node | TypeScript | MySQL | AWS
 ## Meus pronomes são Ele/Dele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustGhost&theme=radical)
